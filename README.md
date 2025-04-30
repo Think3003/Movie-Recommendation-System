@@ -54,7 +54,7 @@ The system computes the similarity between movies based on their metadata and su
 
 ## 📂 Dataset
 
-The project uses the **TMDb 5000 Movie Dataset**, which contains metadata for 5,000 movies including:
+The project uses the **[LINK](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)**, which contains metadata for 5,000 movies including:
 - Genres
 - Cast and Crew
 - Keywords
